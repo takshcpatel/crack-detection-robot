@@ -86,7 +86,7 @@ The robot chassis is designed using **On Shape / Sketchup** with the following c
 The Magnetic Crawler Inspection Robot can be **manually controlled using an Xbox controller**, enabling precise navigation during inspection.  
 This is especially useful when inspecting **dangerous, confined, or complex metal surfaces**.
 
-The controller communicates with the robot via a **PC or Raspberry Pi**, sending commands to the microcontroller through **serial communication**.
+The controller communicates with the robot via a **PC or Raspberry Pi**, sending commands to the microcontroller through a **WiFi Access Point**.
 
 ---
 
