@@ -46,11 +46,6 @@ This project focuses on improving **industrial safety**, **inspection accuracy**
 
 ---
 
-## 🧩 System Architecture
-
-![System Architecture](images/system_architecture.png)
-
----
 
 ## 🔌 Hardware & Circuit Description
 
