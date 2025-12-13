@@ -12,7 +12,7 @@ This project focuses on improving **industrial safety**, **inspection accuracy**
 ## 📸 Project Images
 
 ### Robot Prototype
-![Robot Prototype](images/robot.jpg)
+![Robot Prototype](images/robot.png)
 
 ### Circuit Diagram
 ![Circuit Diagram](images/circuit_diagram.png)
