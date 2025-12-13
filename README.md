@@ -69,7 +69,7 @@ The motor driver controls the crawler motors, while the microcontroller handles 
 
 ## 🧱 3D Model Design
 
-The robot chassis is designed using **Fusion 360 / SolidWorks** with the following considerations:
+The robot chassis is designed using **On Shape / Sketchup** with the following considerations:
 - Compact and lightweight structure  
 - Balanced weight distribution  
 - Enclosed electronics compartment  
@@ -86,8 +86,39 @@ The robot chassis is designed using **Fusion 360 / SolidWorks** with the followi
 - Contour detection  
 - Crack highlighting  
 
-### Software Stack
+## 🎮 Xbox Controller Based Robot Control
+
+The Magnetic Crawler Inspection Robot can be **manually controlled using an Xbox controller**, enabling precise navigation during inspection.  
+This is especially useful when inspecting **dangerous, confined, or complex metal surfaces**.
+
+The controller communicates with the robot via a **PC or Raspberry Pi**, sending commands to the microcontroller through **serial communication**.
+
+---
+
+### 🎯 Control Features
+- Forward & backward movement
+- Left & right turning
+- Start/stop inspection
+- Trigger crack detection
+- Emergency stop
+
+---
+
+### 🎮 Controller Mapping
+
+| Xbox Control | Function |
+|------------|----------|
+| RT / LT | Forward/Backward |
+| A Button | Capture And Detect Crack |
+| B Button | Turn Right |
+| X Button | Turn Left |
+| Y Button | Emergency Stop | 
+
+---
+
+### 🧰 Libraries Used
 ```bash
-Python
-OpenCV
-NumPy
+pygame
+pyserial
+opencv-python
+numpy
