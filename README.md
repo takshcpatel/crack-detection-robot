@@ -55,10 +55,10 @@ This project focuses on improving **industrial safety**, **inspection accuracy**
 - DC Geared Motors
 - Neodymium Magnets / Electromagnets
 - Camera Module
-- Li-ion Battery Pack
+- Repurposed PC psu
 - Voltage Regulator & Switches
 
-The motor driver controls the crawler motors, while the microcontroller handles movement commands and camera input. The power system provides stable voltage to all components.
+The motor driver controls the motors, the microcontroller handles movement commands and camera input. The psu provides stable voltage to all components.
 
 ---
 
@@ -67,8 +67,8 @@ The motor driver controls the crawler motors, while the microcontroller handles 
 The robot chassis is designed using **On Shape / Sketchup** with the following considerations:
 - Compact and lightweight structure  
 - Balanced weight distribution  
-- Enclosed electronics compartment  
-- Optimized crawler layout for curved surfaces  
+- Enclosed electronics compartment ( To Implement )  
+- Optimized crawler layout for curved surfaces  ( Somewhat working, to implement fully )
 
 ---
 
