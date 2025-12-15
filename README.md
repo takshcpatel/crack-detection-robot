@@ -23,6 +23,9 @@ This project focuses on improving **industrial safety**, **inspection accuracy**
 ### Crack Detection Output
 ![Crack Detection](images/crack_output.png)
 
+### Bill of Material 
+![BOM](images/BOM.png)
+
 ---
 
 ## ✨ Key Features ✨
