@@ -1,4 +1,4 @@
-# Introducing Magnetic Crawler Inspection Robot with Automated Crack Detection
+# Introducing Magnetic Crawler Inspection Robot with auto crack detect
 
 ## 📌 Project Overview
 
