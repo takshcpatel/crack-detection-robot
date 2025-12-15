@@ -36,7 +36,7 @@ This project focuses on improving **industrial safety**, **inspection accuracy**
 
 ---
 
-## ⚙️ Working Principle
+## Working
 
 1. **Neodymium magnets** are used to hold entire car body together.
 2. A custom **Chain-Sprocket** mechanism which are fitted with the magnets.
@@ -48,7 +48,7 @@ This project focuses on improving **industrial safety**, **inspection accuracy**
 ---
 
 
-## 🔌 Hardware & Circuit Description ( First Version )
+## Hardware & Circuit Description ( First Version )
 
 ### Major Components Used
 - Microcontroller (ESP32 Cam)
