@@ -3,7 +3,7 @@ Here's BOM Link - https://docs.google.com/spreadsheets/d/1KNyUiTHHiZ4w4DflsK5Aba
 
 # Introducing Magnetic Crawler Inspection Robot with auto crack detect
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Magnetic Crawler Inspection Robot** is a crawler-type robotic system made for inspecting **large metal surfaces** such as **ship hulls, super critical boilers, storage tanks, etc.**.  
 The robot uses **magnetic adhesion** to climb in mostly all orientations and move on curved metal surfaces while inspecting for **cracks and other damages** using **OpenCV-based computer vision and other tricks**.
@@ -31,7 +31,7 @@ This project focuses on improving **industrial safety**, **inspection accuracy**
 
 ---
 
-## ✨ Key Features ✨
+##  Key Features 
 
 - Strong magnetic adhesion for all orientation climbing
 - "Tank Wheel" type mechanism for movement good stability  
