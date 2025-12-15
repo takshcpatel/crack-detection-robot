@@ -1,3 +1,6 @@
+# HACKCLUB PROJECT 
+Here's BOM Link - https://docs.google.com/spreadsheets/d/1KNyUiTHHiZ4w4DflsK5AbaAJrU27wYsyhS4TlTBECik/edit?usp=sharing
+
 # Introducing Magnetic Crawler Inspection Robot with auto crack detect
 
 ## 📌 Project Overview
