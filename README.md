@@ -94,16 +94,6 @@ This is the only way to control the robot right now. In-Dev version is set to be
 
 ---
 
-###  Controller Mapping
-
-| RB / LB | Forward/Backward |
-| A Button | Capture And Detect Crack |
-| B Button | Turn Right |
-| X Button | Turn Left |
-| R Joystick Click | Emergency Stop | 
-
----
-
 ### Libraries Used
 ```bash
 pygame
